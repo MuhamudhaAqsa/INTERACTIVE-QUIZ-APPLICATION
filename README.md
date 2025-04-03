@@ -1,2 +1,1 @@
-![Screenshot](quizapplication.png)
 
