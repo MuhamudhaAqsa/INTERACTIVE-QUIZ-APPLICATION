@@ -14,3 +14,4 @@
 
 ![Quiz Application Screenshot](quizapplication.png)
 
+![Quiz Application Screenshot](score.png)
