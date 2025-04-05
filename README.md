@@ -2,7 +2,24 @@
 
 ---  
 
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: MUHAMUDHA AQSA M A
+
+INTERN ID: 
+
+DOMAIN: FRONT END DEVELOPMENT
+
+DURATION: 6 WEEKS
+
+MENTOR: NEELA SANTOSH
+
+---  
+
 #### **Features**  
+
+---  
 
 An effective quiz or assessment platform is built on a foundation of essential features that prioritize clarity, responsiveness, and ease of use. Rather than relying on excessive add-ons, the following four core features are critical in delivering a smooth, efficient, and user-centric assessment experience.
 
@@ -19,7 +36,13 @@ Seamless navigation is another essential feature that directly impacts the user 
 An assessment platform must have an interface that is both easy to use and interact with. A simple, clean layout with clearly labeled buttons and readable fonts ensures that users of all ages and technical backgrounds can engage comfortably. The platform should not require a learning curve to navigate. Subtle interactive elements, such as hover effects, animated transitions, or visual confirmations of answer selection, can enhance user engagement without overwhelming the experience. Additionally, compatibility across different devices — such as smartphones, tablets, and desktops — makes the platform more accessible and adaptable to users’ needs.
 
 
+--- 
+
+
+OUTPUT
+
 ---  
+
 
 ![Quiz Application Screenshot](quizapplication.png)
 
