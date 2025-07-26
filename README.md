@@ -51,7 +51,7 @@ An interactive and user-friendly platform designed to deliver smooth, responsive
 ## 👩‍💻 Author
 
 **Muhamudha Aqsa M A**  
-Aspiring Technical Writer with a developer background
+Aspiring Technical Writer skilled in explaining technical concepts clearly
 📧 muhamudhaaqsa@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/muhamudhaaqsa)
 
