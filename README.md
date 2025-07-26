@@ -51,7 +51,7 @@ An interactive and user-friendly platform designed to deliver smooth, responsive
 ## 👩‍💻 Author
 
 **Muhamudha Aqsa M A**  
-Wipro Certified Java Full Stack Developer  
+Aspiring Technical Writer  
 📧 muhamudhaaqsa@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/muhamudhaaqsa)
 
