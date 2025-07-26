@@ -1,4 +1,3 @@
-
 # 📝 Quiz/Assessment Platform
 
 An interactive and user-friendly platform designed to deliver smooth, responsive, and engaging quiz experiences. Focused on clarity, instant feedback, and efficient navigation, this platform enables learners to assess their knowledge effectively in real time.
@@ -39,17 +38,13 @@ An interactive and user-friendly platform designed to deliver smooth, responsive
 
 - **Frontend**: HTML, CSS, JavaScript  
 
+---
 
-
-
-OUTPUT
-
----  
-
+## 📸 Screenshots
 
 ![Quiz Application Screenshot](quizapplication.png)
 
-![Quiz Application Screenshot](score.png)
+![Score Display Screenshot](score.png)
 
 ---
 
@@ -61,5 +56,3 @@ Wipro Certified Java Full Stack Developer
 🔗 [LinkedIn](https://linkedin.com/in/muhamudhaaqsa)
 
 ---
-
-
