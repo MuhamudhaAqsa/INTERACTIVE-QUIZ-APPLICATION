@@ -50,3 +50,16 @@ OUTPUT
 ![Quiz Application Screenshot](quizapplication.png)
 
 ![Quiz Application Screenshot](score.png)
+
+---
+
+## 👩‍💻 Author
+
+**Muhamudha Aqsa M A**  
+Wipro Certified Java Full Stack Developer  
+📧 muhamudhaaqsa@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/muhamudhaaqsa)
+
+---
+
+
